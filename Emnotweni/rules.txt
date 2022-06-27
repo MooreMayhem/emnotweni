@@ -1,0 +1,14 @@
+Game Play
+
+From here on we shall refer to first player and second player.
+The game commences with a deck of cards, consisting only of the numbers ranging from 1(ace) to ten, which are shuffled randomly and two cards are open face up on the floor. The floor is the playing surface for the game. 
+First Scenario
+ The first player will open the top card of the deck, if the card in hand can combine with a card on the floor to make ten (mathematically) the player will do so and therefore starting his/her pile. The floor will have the cards remaining that the first player could not make a combination of ten with and the turn will move to second player.
+Second Scenario
+The player may make an attempt at making more than one combination of ten per turn, but only one card is drawn in each turn a player is granted. If the second player has already started building his/her pile of cards, the first player may use the revealed card (card at the top) to make combinations of ten, taking only one card per combination.
+
+Third Scenario
+If the player draws a ten he/she should add it immediately to his pile of cards/points and proceed to build anymore combinations of ten if possible. If the opponent has a ten revealed (at the top) in his pile of cards, the opponent may proceed to take it as if building a combination of ten provided the player has already drawn a card and built at least one combination already.
+Fourth Scenario
+ If the first player draws a card that doesn’t combine with a number to make ten, then the user has to drop the card and the turn moves to second player.
+

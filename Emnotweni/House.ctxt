@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ mouse()
+comment0.text=\ public\ static\ void\ main(String\ []\ args)\r\n\ \ \ \ {\r\n\ \ \ \ JFrame\ frames\ \=\ new\ JFrame();\r\n\ \ \ \ frames.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\r\n\ \ \ \ frames.setSize(900,700);\r\n\ \ \ \ frames.setVisible(true);\r\n\ \ \ \ frames.setBackground(Color.green);\r\n\ \ \ \ }\r\n
+comment1.params=
+comment1.target=void\ ruling()
+comment2.params=
+comment2.target=void\ leaves()
+numComments=3
